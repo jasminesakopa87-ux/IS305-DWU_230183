@@ -1,9 +1,8 @@
-# IS305 – Dining Meal Booking Feature (AT1)
+# IS305 – Dining Meal Booking Feature (AT2)
 
 **Student Name:** Jasmine Sakopa
 **Student ID:** 230183
-**GitHub Repository URL:** https://github.com/YOUR-USERNAME/IS305-230183
-
+**GitHub Repository URL:** https://github.com/jasminesakopa87-ux/IS305-DWU_230183
 ## Description
 A console-based Node.js application for booking a meal at DWU Dining Services.
 Students enter their booking details through the console, and the program
